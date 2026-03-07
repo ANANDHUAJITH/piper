@@ -1,4 +1,4 @@
-# 🤖 PIPER Robotic Arm Lab — TKM College of Engineering, Kollam
+#  PIPER Robotic Arm Lab — TKM College of Engineering, Kollam
 
 > **An educational robotics lab package for the PIPER 6-DOF robotic arm, developed for undergraduate students at TKM College of Engineering, Kollam.**
 
@@ -25,7 +25,7 @@ piper-arm-lab/
 
 ---
 
-## 🎯 What This Lab Covers
+##  What This Lab Covers
 
 | Exercise | Mode | Skill |
 |----------|------|-------|
