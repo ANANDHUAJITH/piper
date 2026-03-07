@@ -3,6 +3,8 @@
 > **An educational robotics lab package for the PIPER 6-DOF robotic arm, developed for undergraduate students at TKM College of Engineering, Kollam.**
 
 ---
+<img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/89b98651-76b6-4863-8202-8b4227b43cde" />
+
 
 ## 📦 Repository Contents
 
