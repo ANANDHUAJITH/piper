@@ -6,7 +6,7 @@
 <img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/89b98651-76b6-4863-8202-8b4227b43cde" />
 
 
-## 📦 Repository Contents
+##  Repository Contents
 
 ```
 piper-arm-lab/
@@ -49,7 +49,7 @@ piper-arm-lab/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Simulation (RViz / MoveIt)
 
@@ -80,7 +80,7 @@ python3 piper_arm_hardware.py
 
 ---
 
-## 🎮 Three Operating Modes
+##  Three Operating Modes
 
 ### Mode 1 — Command-by-Command
 Enter one command at a time. Robot executes immediately.
@@ -113,7 +113,7 @@ TRAJ > B          # Execute B-spline trajectory
 
 ---
 
-## 📋 Command Quick Reference
+##  Command Quick Reference
 
 | Command | Action |
 |---------|--------|
@@ -137,7 +137,7 @@ Joints map: **A=1, B=2, C=3, D=4, E=5, F=6**
 
 ---
 
-## 📊 Plotting Results
+##  Plotting Results
 
 ```bash
 # Single file
@@ -157,7 +157,7 @@ Output graphs:
 
 ---
 
-## 🐛 Known Issues
+##  Known Issues
 
 | Feature | Status | Notes |
 |---------|--------|-------|
@@ -171,7 +171,7 @@ Output graphs:
 
 ---
 
-## 📁 Data Files
+##  Data Files
 
 All CSV logs are saved to: `~/Desktop/PIPER_CSV/`
 
@@ -183,7 +183,7 @@ EndEff_X_mm, EndEff_Y_mm, EndEff_Z_mm, EndEff_RX_deg, EndEff_RY_deg, EndEff_RZ_d
 
 ---
 
-## 📖 Documentation
+##  Documentation
 
 - **[FUNCTION_REFERENCE.md](docs/FUNCTION_REFERENCE.md)** — Every class and function explained with examples
 - **[EXPERIMENT_MANUAL.md](docs/EXPERIMENT_MANUAL.md)** — Step-by-step student lab guide
@@ -191,13 +191,13 @@ EndEff_X_mm, EndEff_Y_mm, EndEff_Z_mm, EndEff_RX_deg, EndEff_RY_deg, EndEff_RZ_d
 
 ---
 
-## 🏫 Institution
+##  Institution
 
 **Department of Mechanical Engineering**
 TKM College of Engineering, Kollam, Kerala — 691005
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — Free for educational use.
